@@ -55,10 +55,6 @@ Als er een fout in de code zit, schrijf dan FOUT!
 
 ------
 
-Einde werkblad! Ben je klaar, leg dan je schrift bovenaan op je tafel.
-
-Als je klaar bent mag je aan het Extra Opgaves blad gaan werken.
-
  <div style="page-break-after: always;"></div>
 
 **Lijsten maken**
@@ -83,10 +79,6 @@ Als je klaar bent mag je aan het Extra Opgaves blad gaan werken.
 * lijst `engelse_woorden`. Verzin zelf 3 Engelse woorden om in je lijst op te slaan
 
 ---
-
-Einde werkblad! Ben je klaar, leg dan je schrift bovenaan op je tafel.
-
-Als je klaar bent mag je aan het Extra Opgaves blad gaan werken.
 
  <div style="page-break-after: always;"></div>
 
@@ -168,10 +160,6 @@ Nu krijg je de zin, en moet jij de code afmaken.
    snoepjes = ['chocolade', 'zuurtjes', 'drop']
    print('Ik', 'hou', 'van', snoepjes[...])
 ```
-
-Einde werkblad! Ben je klaar, leg dan je schrift bovenaan op je tafel.
-
-Als je klaar bent mag je aan het Extra Opgaves blad gaan werken.
 
  <div style="page-break-after: always;"></div>
 
@@ -257,10 +245,5 @@ Let goed op: er kunnen nu ook foutjes in andere dingen staan, niet alleen in de 
 ```
 
 ------
-
-Einde werkblad! Ben je klaar, leg dan je schrift bovenaan op je tafel.
-
-Als je klaar bent mag je aan het Extra Opgaves blad gaan werken.
-
 
 
